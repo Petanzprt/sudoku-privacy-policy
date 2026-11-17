@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy - Sudoku Hlavolamy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+      max-width: 850px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+    }
+    h1, h2 { color: #26334f; }
+    a { color: #2857a4; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Application:</strong> Sudoku - Hlavolamy</p>
+  <p><strong>Last updated:</strong> November 17, 2026</p>
+
+  <h2>1. Introduction</h2>
+  <p>This Privacy Policy explains how Sudoku - Hlavolamy
+  handles information when you use our mobile game.</p>
+
+  <h2>2. Information We Collect</h2>
+  <p>The game stores information such as puzzle progress,
+  settings, achievements and game statistics locally
+  on your device.</p>
+  <p>The game uses Google AdMob to display advertisements.
+  Google and its advertising partners may collect device
+  identifiers, IP addresses, advertising interaction data
+  and other information as described in their policies.</p>
+
+  <h2>3. Advertising</h2>
+  <p>We use Google AdMob, which may provide personalised
+  or non-personalised advertisements depending on your
+  location, choices and applicable privacy requirements.</p>
+  <p>For information about Google's data practices, visit
+  <a href="https://policies.google.com/privacy">
+  Google's Privacy Policy</a>.</p>
+
+  <h2>4. Consent and Privacy Choices</h2>
+  <p>Where required, the application requests advertising
+  consent through Google's User Messaging Platform (UMP).
+  Users may choose the available consent options.
+  Where applicable, users must also be able to revisit
+  their privacy choices.</p>
+
+  <h2>5. Data Storage</h2>
+  <p>Game progress and preferences are stored locally
+  on the device. Removing the application may delete
+  locally stored game data.</p>
+
+  <h2>6. Data Sharing</h2>
+  <p>Advertising-related information may be processed
+  by Google and its advertising partners to provide,
+  measure and improve advertisements.</p>
+
+  <h2>7. Children's Privacy</h2>
+  <p>The game is intended for a general audience.
+  We do not knowingly collect personal information
+  directly from children. Advertising and consent
+  handling must follow applicable age-related rules.</p>
+
+  <h2>8. Security</h2>
+  <p>We take reasonable steps to protect information
+  processed in connection with the application.
+  No method of electronic processing is completely secure.</p>
+
+  <h2>9. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy when the
+  application or applicable requirements change.
+  Updates will be published on this page.</p>
+
+  <h2>10. Contact</h2>
+  <p>For questions about privacy, contact:</p>
+  <p><a href="mailto:Petrvasata7@gmail.com">
+  Petrvasata7@gmail.com</a></p>
+</body>
+</html>
